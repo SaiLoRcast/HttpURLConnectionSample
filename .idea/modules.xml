@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HttpURLConnectionSample.iml" filepath="$PROJECT_DIR$/HttpURLConnectionSample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\AndroidIntelliJIDEAProjects\Android_3\HttpURLConnectionSample\app\app.iml" filepath="C:\AndroidIntelliJIDEAProjects\Android_3\HttpURLConnectionSample\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpurlconnectionsample/app.iml" filepath="$PROJECT_DIR$/httpurlconnectionsample/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpsample/okhttpsample.iml" filepath="$PROJECT_DIR$/okhttpsample/okhttpsample.iml" />
     </modules>
   </component>
 </project>
