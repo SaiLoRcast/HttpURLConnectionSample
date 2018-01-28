@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/httpurlconnectionsample" />
             <option value="$PROJECT_DIR$/okhttpsample" />
+            <option value="$PROJECT_DIR$/retrofit2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HttpURLConnectionSample.iml" filepath="$PROJECT_DIR$/HttpURLConnectionSample.iml" />
+      <module fileurl="file://C:\AndroidIntelliJIDEAProjects\Android_3\HttpURLConnectionSample\httpurlconnectionsample\app.iml" filepath="C:\AndroidIntelliJIDEAProjects\Android_3\HttpURLConnectionSample\httpurlconnectionsample\app.iml" />
       <module fileurl="file://C:\AndroidIntelliJIDEAProjects\Android_3\HttpURLConnectionSample\app\app.iml" filepath="C:\AndroidIntelliJIDEAProjects\Android_3\HttpURLConnectionSample\app\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/httpurlconnectionsample/app.iml" filepath="$PROJECT_DIR$/httpurlconnectionsample/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpurlconnectionsample/httpurlconnectionsample.iml" filepath="$PROJECT_DIR$/httpurlconnectionsample/httpurlconnectionsample.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttpsample/okhttpsample.iml" filepath="$PROJECT_DIR$/okhttpsample/okhttpsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit2/retrofit2.iml" filepath="$PROJECT_DIR$/retrofit2/retrofit2.iml" />
     </modules>
   </component>
 </project>
